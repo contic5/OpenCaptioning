@@ -1,0 +1,24 @@
+body
+{
+  background-color: #99FFFF;
+}
+img
+{
+  width:400px;
+  height:400px;
+}
+div
+{
+  background-color: lightblue;
+}
+.answer
+{
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold";
+  font-size: 32px;
+  font-weight:bold;
+}
+table,td
+{
+  border: black solid 1px;
+  background-color:lightblue;
+}
