@@ -66,6 +66,7 @@
       }
 
   }
+  //Hello
   print("<p><a href='addmemeform.php'>Upload Another Meme</a></p>");
   print("<p><a href='mainmenu.php'>Return to Main Menu</a></p>");
   ?>
